@@ -177,11 +177,11 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 .footer a {color: #CCCCCC;}
 .footer a:hover {color: #FFFFFF;}
 .dept_footer {border-bottom: 1px solid #131313; color: #DDDDDD;}
-.dept_footer_content {text-align: center; padding: 1rem 1rem 1.7rem 1rem; letter-spacing: 1px;}
+.dept_footer_content {text-align: center; padding: 1rem; letter-spacing: 1px;}
 .dept_footer_content a:hover {color: #DDDDDD; text-decoration: none;}
 .dept_footer_content a {color: #00A08E;}
 .office_name {font-size: 1.3rem; margin-bottom: 0;}
-.office_details {font-size: .7rem; margin: .5rem auto; line-height: 1rem; list-style: none; padding: 0; max-width: 475px;}
+.office_details {font-size: .7rem; margin: .5rem auto 1.5rem auto; line-height: 1rem; list-style: none; padding: 0; max-width: 475px;}
 .global_footer {border-top: 1px solid #525252; padding-bottom: 3rem; margin: auto; position: relative; z-index: 1; background: #2E2A26; background: rgba(20, 13, 3, 0.4);}
 .global_footer:after {background: url('../images/panorama.jpg'); background-repeat: no-repeat; background-size: cover; opacity: 0.15; top: 0; bottom: 0; left: 0; right: 0; position: absolute; z-index: -1; content: ""; background-position: 80% 0%;}
 .global_footer_main {max-width: 1440px;}

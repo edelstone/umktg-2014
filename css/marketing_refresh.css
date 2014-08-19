@@ -37,7 +37,7 @@ h2 {margin: .5rem auto .7rem auto;}
 
 /* (640px and up) */
 
-@media (min-width: 40rem) {
+@media screen and (min-width: 40rem) {
 html {font-size: 110%;}
 .column {float: left;}
 .column.full {width: 100%;}
@@ -61,7 +61,7 @@ h2 {margin-top: 1.2rem;}
 
 /* (800px and up) */
 
-@media (min-width: 50rem) {
+@media screen and (min-width: 50rem) {
 .header {min-height: 350px;}
 .dept_name h1 {font-size: 2.6rem;}
 .hide {display: block;}
@@ -76,7 +76,7 @@ h2 {margin-top: 1.2rem;}
 
 /* (1024px and up) */
 
-@media (min-width: 64rem) {
+@media screen and (min-width: 64rem) {
 html {font-size: 120%;}
 .header {min-height: 400px;}
 .bg_image {display: none;}
@@ -87,7 +87,7 @@ html {font-size: 120%;}
 
 /* (1280px and up) */
 
-@media (min-width: 80rem) {
+@media screen and (min-width: 80rem) {
 .header {min-height: 425px;}
 .bg_video {margin-top: -100px;}
 .messaging_title {padding: 6rem 1rem 2.5rem 1rem;}
@@ -95,7 +95,7 @@ html {font-size: 120%;}
 
 /* (1440px and up) */
 
-@media (min-width: 90rem) {
+@media screen and (min-width: 90rem) {
 .header {min-height: 450px;}
 .bg_video {margin-top: -150px;}
 .messaging_title {padding: 7rem 1rem 2.5rem 1rem;}

@@ -80,7 +80,7 @@ h2 {margin-top: 1.2rem;}
 html {font-size: 120%;}
 .header {min-height: 400px;}
 .bg_image {display: none;}
-.bg_video {display: inline-block; margin-top: -50px;}
+.bg_video {display: inline-block; margin-top: -100px;}
 .align_1, .align_2, .align_3 {padding: 0 1rem;}
 .messaging_title {padding: 5.5rem 1rem 2.2rem 1rem; font-size: 5rem;}
 }
@@ -89,7 +89,7 @@ html {font-size: 120%;}
 
 @media (min-width: 80rem) {
 .header {min-height: 425px;}
-.bg_video {margin-top: -100px;}
+.bg_video {margin-top: -175px;}
 .messaging_title {padding: 6rem 1rem 2.5rem 1rem;}
 }
 
@@ -97,7 +97,7 @@ html {font-size: 120%;}
 
 @media (min-width: 90rem) {
 .header {min-height: 450px;}
-.bg_video {margin-top: -150px;}
+.bg_video {margin-top: -250px;}
 .messaging_title {padding: 7rem 1rem 2.5rem 1rem;}
 }
 
@@ -126,7 +126,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 
 .banner {background: #C1B69A; background-repeat: repeat-x; text-align: center; height: 66px; position: relative; overflow: hidden;}
 .bg_container {background: #4F1F26; position: absolute; z-index: 0; width: 100%; height: 100%;}
-.bg_image {opacity: 0; position: absolute; margin-top: -50px; height: 150%; width: 100%; background: #4F1F26 url("../images/poster_granger.jpg") no-repeat 50% 0%; background-size: cover;}
+.bg_image {opacity: 0; position: absolute; margin-top: -50px; height: 150%; width: 100%; background: #4F1F26 url("../images/poster_shepard.jpg") no-repeat 50% 0%; background-size: cover;}
 .bg_video_container {position: absolute; height: 100%; width: 100%;}
 .bg_video {opacity: 0; position: absolute; left: 0; top: 0; min-height: 100%; width: 100%; height: auto; z-index: -1;}
 .overlay {position: absolute; height: 100%; width: 100%;}

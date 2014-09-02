@@ -25,7 +25,7 @@ h2 {margin: .5rem auto; color: #403F3F;}
 .align_3 {text-align: left; border-left: 1px solid #636363; padding: 0 0.2rem 0 1rem;}
 .tsus_logo {margin: 1.5rem auto auto auto;}
 .footer_logo.third, .footer_links.third {width: 100% !important;}
-.side_nav {margin: -1rem -1rem 1rem -1rem;}
+.side_nav {margin: -1rem -1rem 1.5rem -1rem;}
 .side_nav_list a, .side_nav_list lh {margin-bottom: 0px;}
  
  /* (Handheld) */
@@ -115,7 +115,8 @@ html {font-size: 120%;}
 body {font-family: 'Univers W01'; font-weight: 100; text-rendering: optimizeLegibility;}
 a, a:link, a:visited {color: #00A08E; text-decoration: none;}
 a:hover, a:active {color: #222222; text-decoration: none;}
-a, li {transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out;}
+a, li, .std_transition {transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out;}
+.fast_transition {transition: all 0.1s ease-in-out; -webkit-transition: all 0.1s ease-in-out; -moz-transition: all 0.1s ease-in-out; -o-transition: all 0.1s ease-in-out;}
 .no_transition {transition: none; -webkit-transition: none; -moz-transition: none; -o-transition: none;}
 h1, .office_name {font-family: 'Garamond Premier W01'; font-weight: 400;}
 h1 a {color: #FFFFFF !important;}
@@ -161,8 +162,8 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 /* Side Navigation */
 
 .side_nav_list {list-style-type: none; padding-left: 0; margin: 0; font-size: 85%;}
-.side_nav_list a, .side_nav_list lh {display: block; padding: 0.4rem 0.7rem;}
-.side_nav_list lh {color: #FFFFFF; background-color: #4F1F26; border-left: 10px solid #8C734A;}
+.side_nav_list a, .side_nav_list lh {display: block; padding: 0.3rem 0.7rem;}
+.side_nav_list lh {color: #FFFFFF; background-color: #4F1F26;}
 .side_nav_list a {color: #222222; background-color: #F0F0F0;}
 .side_nav_list a:hover {background: #8C734A; color: #FFFFFF;}
 .side_nav_list .selected {background: #8C734A; color: #FFFFFF;}

@@ -26,6 +26,7 @@ h2 {margin: .5rem auto; color: #403F3F;}
 .tsus_logo {margin: 1.5rem auto auto auto;}
 .footer_logo.third, .footer_links.third {width: 100% !important;}
 .side_nav {margin: -1rem -1rem 1.5rem -1rem;}
+.side_nav_list {font-size: 95%;}
 .side_nav_list a, .side_nav_list lh {margin-bottom: 0px;}
  
  /* (Handheld) */
@@ -60,7 +61,9 @@ h2 {margin-top: 1rem;}
 .messaging {display: block;}
 .messaging_title {padding: 5rem 1rem 1.8rem 1rem; font-size: 4.5rem;}
 .side_nav {margin: auto; margin-top: 1.3rem;}
+.side_nav_list {font-size: 85%;}
 .side_nav_list a, .side_nav_list lh {margin-bottom: 8px;}
+.main_text, .main_nav {font-size: 95%;}
 }
 
 /* (800px and up) */
@@ -153,7 +156,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 
 /* Top Navigation */
 
-.main_nav, .condensed_nav {max-width: 1000px; background: #E8E3DB; font-size: 95%;}
+.main_nav, .condensed_nav {max-width: 1000px; background: #E8E3DB;}
 .main_nav a, .condensed_nav a {color: #333333; display: inline-block;}
 .main_nav a:hover, .condensed_nav a:hover {color: #8C734A; box-shadow: inset 0px -6px 0px 0px #8C734A; -moz-box-shadow: inset 0px -6px 0px 0px #8C734A; -webkit-box-shadow: inset 0px -6px 0px 0px #8C734A;}
 .main_nav .fa-caret-down {color: #444444; position: relative; left: 3px; font-size: 80%;}
@@ -161,7 +164,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 
 /* Side Navigation */
 
-.side_nav_list {list-style-type: none; padding-left: 0; margin: 0; font-size: 85%;}
+.side_nav_list {list-style-type: none; padding-left: 0; margin: 0;}
 .side_nav_list a, .side_nav_list lh {display: block; padding: 0.3rem 0.7rem;}
 .side_nav_list lh {color: #FFFFFF; background-color: #4F1F26;}
 .side_nav_list a {color: #222222; background-color: #F0F0F0;}
@@ -171,7 +174,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 /* Body */
 
 .page_content {max-width: 1000px; margin: auto; padding: 1rem 0 1.5rem 0; overflow: hidden;}
-.main_text {padding-bottom: .5rem; font-size: 95%;}
+.main_text {padding-bottom: .5rem;}
 .main_text a {padding: 1px 3px; margin: -1px -3px;}
 .main_text a:hover {background: #B2E2DD; background: rgba(0, 160, 142, 0.3);}
 .top_services {margin: 0; font-weight: 200; font-size: 2rem; letter-spacing: 0.13rem; text-transform: uppercase; line-height: 2rem;}

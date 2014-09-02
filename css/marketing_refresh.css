@@ -27,7 +27,7 @@ h2 {margin: .5rem auto; color: #403F3F;}
 .footer_logo.third, .footer_links.third {width: 100% !important;}
 .side_nav {margin: -1rem -1rem 1.5rem -1rem;}
 .side_nav_list {font-size: 95%;}
-.side_nav_list a, .side_nav_list lh {margin-bottom: 0px;}
+.side_nav_list a, .side_nav_list lh {margin-bottom: 0px; padding: 0.5rem 0.7rem;}
  
  /* (Handheld) */
 
@@ -62,7 +62,7 @@ h2 {margin-top: 1rem;}
 .messaging_title {padding: 5rem 1rem 1.8rem 1rem; font-size: 4.5rem;}
 .side_nav {margin: auto; margin-top: 1.3rem;}
 .side_nav_list {font-size: 85%;}
-.side_nav_list a, .side_nav_list lh {margin-bottom: 8px;}
+.side_nav_list a, .side_nav_list lh {margin-bottom: 8px; padding: 0.3rem 0.7rem;}
 .main_text, .main_nav {font-size: 95%;}
 }
 
@@ -165,7 +165,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 /* Side Navigation */
 
 .side_nav_list {list-style-type: none; padding-left: 0; margin: 0;}
-.side_nav_list a, .side_nav_list lh {display: block; padding: 0.3rem 0.7rem;}
+.side_nav_list a, .side_nav_list lh {display: block;}
 .side_nav_list lh {color: #FFFFFF; background-color: #4F1F26;}
 .side_nav_list a {color: #222222; background-color: #F0F0F0;}
 .side_nav_list a:hover {background: #8C734A; color: #FFFFFF;}

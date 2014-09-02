@@ -59,7 +59,7 @@ h2 {margin-top: 1rem;}
 .main_nav a {padding: 1rem .7rem .9rem .7rem; margin: auto; width: auto; border: none; text-align: center; min-width: 20%;}
 .bg_overlay, .bg_image, .bg_image_2 {display: block;}
 .messaging {display: block;}
-.messaging_title {padding: 5rem 1rem 1.8rem 1rem; font-size: 4.5rem;}
+.messaging_title {padding: 4.5rem 1rem 2rem 1rem; font-size: 4.5rem;}
 .side_nav {margin: auto; margin-top: 1.3rem;}
 .side_nav_list {font-size: 85%;}
 .side_nav_list a, .side_nav_list lh {margin-bottom: 8px; padding: 0.3rem 0.7rem;}
@@ -69,7 +69,6 @@ h2 {margin-top: 1rem;}
 /* (800px and up) */
 
 @media (min-width: 50rem) {
-.header {min-height: 350px;}
 .dept_name h1 {font-size: 2.6rem;}
 .hide {display: block;}
 .global_footer_main {padding: 3rem 0 0 0;}
@@ -88,7 +87,7 @@ html {font-size: 120%;}
 .header {min-height: 400px;}
 .header_2 {min-height: 200px;}
 .bg_image {display: none;}
-.bg_video {display: inline-block; margin-top: -100px;}
+.bg_video {display: inline-block; margin-top: -125px;}
 .align_1, .align_2, .align_3 {padding: 0 1rem;}
 .messaging_title {padding: 5.5rem 1rem 2.2rem 1rem; font-size: 5rem;}
 }
@@ -96,17 +95,11 @@ html {font-size: 120%;}
 /* (1280px and up) */
 
 @media (min-width: 80rem) {
-.header {min-height: 425px;}
-.bg_video {margin-top: -175px;}
-.messaging_title {padding: 6rem 1rem 2.5rem 1rem;}
 }
 
 /* (1440px and up) */
 
 @media (min-width: 90rem) {
-.header {min-height: 450px;}
-.bg_video {margin-top: -250px;}
-.messaging_title {padding: 7rem 1rem 2.5rem 1rem;}
 }
 
 /* General */

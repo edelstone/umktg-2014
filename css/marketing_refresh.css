@@ -158,7 +158,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 
 .side_nav_list {list-style-type: none; padding-left: 0; margin: 0;}
 .side_nav_list a, .side_nav_list lh {display: block;}
-.side_nav_list lh {color: #FFFFFF; background-color: #4F1F26;}
+.side_nav_list lh {color: #FFFFFF; background-color: #8C734A;}
 .side_nav_list a {color: #222222; background-color: #F0F0F0; border-bottom: 1px solid #E0E0E0;}
 .side_nav_list a:hover {background: #8C734A; color: #FFFFFF;}
 .side_nav_list .selected {background: #8C734A; color: #FFFFFF;}

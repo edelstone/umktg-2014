@@ -130,7 +130,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 .banner {background: #C1B69A; background-repeat: repeat-x; text-align: center; height: 66px; position: relative; overflow: hidden;}
 .bg_container {background: #4F1F26; position: absolute; z-index: 0; width: 100%; height: 100%;}
 .bg_image {opacity: 0; position: absolute; margin-top: -50px; height: 150%; width: 100%; background: #4F1F26 url("../images/poster_shepard.jpg") no-repeat 50% 0%; background-size: cover;}
-.bg_image_2 {opacity: 0; position: absolute; margin-top: -50px;height: 150%; width: 100%; background: #4F1F26 url("../images/work.jpg") no-repeat 50% 55%; background-size: cover;}
+.bg_image_2 {opacity: 0; position: absolute; margin-top: -50px;height: 150%; width: 100%; background: #4F1F26 url("../images/work.jpg") no-repeat 50% 65%; background-size: cover;}
 .bg_video_container {position: absolute; height: 100%; width: 100%;}
 .bg_video {opacity: 0; position: absolute; left: 0; top: 0; min-height: 100%; width: 100%; height: auto; z-index: -1;}
 .overlay {position: absolute; height: 100%; width: 100%;}

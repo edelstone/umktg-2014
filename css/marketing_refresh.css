@@ -162,7 +162,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 .side_nav_list lh {color: #FFFFFF; background-color: #8C734A;}
 .side_nav_list a {color: #222222; background-color: #F0F0F0; border-bottom: 1px solid #E0E0E0;}
 .side_nav_list a:hover {color: #8C734A;}
-.side_nav_list a:before {font-family: FontAwesome; content: "\f105"; color: #8C734A; margin-left: .5rem; opacity: 0; margin-left: -0.7rem; margin-top: .05rem; float: left;}
+.side_nav_list a:before {font-family: FontAwesome; content: "\f0da"; color: #8C734A; margin-left: .5rem; opacity: 0; margin-left: -0.7rem; margin-top: .05rem; float: left;}
 .side_nav_list a:hover:before {opacity: 1;}
 .selected_side {background: #8C734A; color: #FFFFFF;}
 

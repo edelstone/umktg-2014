@@ -68,7 +68,7 @@ h2 {margin-top: 1rem;}
 
 /* (800px and up) */
 
-@media (min-width: 51rem) {
+@media (min-width: 50rem) {
 .dept_name h1 {font-size: 2.6rem;}
 .hide {display: block;}
 .global_footer_main {padding: 3rem 0 0 0;}

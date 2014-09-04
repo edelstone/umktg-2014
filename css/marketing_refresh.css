@@ -202,8 +202,9 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 .txst_logo img {width: 100%; height: auto;}
 .tsus_logo {max-width: 360px; padding: 0 1rem;}
 .tsus_logo img {width: 100%; height: auto;}
-.footer_links ul {list-style: none; font-size: 0.7rem; letter-spacing: 1px; line-height: 1.4rem; margin: 0; width: 50%;}
-.footer_links lh {text-transform: uppercase; font-weight: 400; margin-bottom: 0.5rem; display: block; color: #E7E7E7;}
+.link_group {float: left; width: 50%; letter-spacing: 1px; font-size: .7rem; line-height: 1.4rem;}
+.footer_links ul {list-style: none; margin: 0; padding: 0; line-height: 1.4rem;}
+.list_header {text-transform: uppercase; font-weight: 400; margin-bottom: 0.5rem; color: #E7E7E7; font-size: 0.7rem; margin-top: 0;}
 .footer_links a {padding: 5px; margin: -5px;}
 .footer_links a:hover, ul.font_icons a:hover {background: #333333; background: rgba(0, 0, 0, 0.3);}
 .global_footer_lower {padding: 2rem 0;}

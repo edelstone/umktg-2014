@@ -26,8 +26,7 @@ h2 {margin: .5rem auto; color: #403F3F;}
 .tsus_logo {margin: 1.5rem auto auto auto;}
 .footer_logo.third, .footer_links.third {width: 100% !important;}
 .side_nav {margin: -1rem -1rem 1.5rem -1rem;}
-.side_nav_list {font-size: 95%;}
-.side_nav_list a, .side_nav_list lh {margin-bottom: 0px; padding: 0.5rem 0.7rem;}
+.side_nav_list a, .side_nav_header {margin-bottom: 0px; padding: 0.5rem 0.7rem; font-size: 95%;}
  
  /* (Handheld) */
 
@@ -61,8 +60,7 @@ h2 {margin-top: 1rem;}
 .messaging {display: block;}
 .messaging_title {padding: 4.5rem 1rem 2rem 1rem; font-size: 4.5rem;}
 .side_nav {margin: auto; margin-top: 1.3rem;}
-.side_nav_list {font-size: 85%;}
-.side_nav_list a, .side_nav_list lh {margin-bottom: 8px; padding: 0.3rem 0.7rem;}
+.side_nav_list a, .side_nav_header {margin-bottom: 8px; padding: 0.3rem 0.7rem; font-size: 85%;}
 .main_text, .main_nav {font-size: 95%;}
 }
 
@@ -118,7 +116,7 @@ h1, .office_name {font-family: 'Garamond Premier W01'; font-weight: 400;}
 h1 a {color: #FFFFFF !important;}
 h2 {font-size: 2rem; letter-spacing: 0.05rem; text-transform: uppercase; font-weight: 500;}
 .tight_header {margin-bottom: 0;}
-p, ul, ol table {line-height: 1.5rem;}
+p, ul, ol, table {line-height: 1.5rem;}
 .medium_em {font-weight: 400;}
 .bold_em {font-weight: 700;}
 .slant_em {font-style: italic;}
@@ -158,8 +156,8 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 /* Side Navigation */
 
 .side_nav_list {list-style-type: none; padding-left: 0; margin: 0;}
-.side_nav_list a, .side_nav_list lh {display: block;}
-.side_nav_list lh {color: #FFFFFF; background-color: #8C734A;}
+.side_nav_header {color: #FFFFFF; background-color: #8C734A; margin-top: 0; font-weight: 100; line-height: 1.5rem;}
+.side_nav_list a {display: block;}
 .side_nav_list a {color: #222222; background-color: #F0F0F0; border-bottom: 1px solid #E0E0E0;}
 .side_nav_list a:hover {color: #8C734A;}
 .side_nav_list a:before, .selected_side:before {font-family: FontAwesome; content: "\f105"; color: #8C734A; margin-left: .5rem; opacity: 0; margin-left: -0.7rem; margin-top: .05rem; float: left;}

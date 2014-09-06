@@ -168,7 +168,7 @@ h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: 
 
 .page_content {max-width: 1000px; margin: auto; padding: 1rem 0 1.5rem 0; overflow: hidden; min-height: 32rem;}
 .main_text {padding-bottom: .5rem;}
-.main_text a {padding: 1px 3px; margin: -1px -3px;}
+.main_text a {padding: 1px 3px; margin: -1px -3px; text-decoration: underline;}
 .main_text a:hover {background: #B2E2DD; background: rgba(0, 160, 142, 0.3);}
 .top_services {margin: 0; font-weight: 200; font-size: 2rem; letter-spacing: 0.13rem; text-transform: uppercase; line-height: 2rem;}
 .top_services div {margin: 1.2rem 0;}

@@ -127,23 +127,23 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 /* Header */
 
 .banner {background: #C1B69A; background-repeat: repeat-x; text-align: center; height: 66px; position: relative; overflow: hidden;}
-.bg_container {background: #4F1F26; position: absolute; z-index: 0; width: 100%; height: 100%;}
-.bg_image {opacity: 0; position: absolute; margin-top: -50px; height: 150%; width: 100%; background: #4F1F26 url("../images/poster_shepard.jpg") no-repeat 50% 0; background-size: cover;}
-.bg_image_2 {opacity: 0; position: absolute; margin-top: -50px;height: 150%; width: 100%; background: #4F1F26 url("../images/work_5.jpg") no-repeat 50% 55%; background-size: cover;}
+.bg_container {background: #501214; position: absolute; z-index: 0; width: 100%; height: 100%;}
+.bg_image {opacity: 0; position: absolute; margin-top: -50px; height: 150%; width: 100%; background: #501214 url("../images/poster_shepard.jpg") no-repeat 50% 0; background-size: cover;}
+.bg_image_2 {opacity: 0; position: absolute; margin-top: -50px;height: 150%; width: 100%; background: #501214 url("../images/work_5.jpg") no-repeat 50% 55%; background-size: cover;}
 .bg_video_container {position: absolute; height: 100%; width: 100%;}
 .bg_video {opacity: 0; position: absolute; left: 0; top: 0; min-height: 100%; width: 100%; height: auto; z-index: -1;}
 .overlay {position: absolute; height: 100%; width: 100%;}
-.bg_overlay {background: #4F1F26; position: absolute; width: 100%; height: 100%; opacity: .75;}
+.bg_overlay {background: #501214; position: absolute; width: 100%; height: 100%; opacity: .75;}
 .messaging {font-weight: 200; color: #FFFFFF; position: relative; max-width: 1000px; min-height: 100%; text-align: center; text-transform: uppercase; margin: auto;}
 .messaging_title {opacity: 0; margin: 0; position: relative; top: .5rem; letter-spacing: 10px;}
 .messaging_btn {font-size: 2rem; opacity: 0;}
 .messaging_btn a {color: #FFFFFF; letter-spacing: 5px; border: 2px solid #FFFFFF; padding: 13px 10px 10px 20px;}
 .messaging_btn a:hover {background: #00A08E;}
 .play {font-size: 65%; margin-left: 7px; vertical-align: top;} 
-.header, .header_2 {position: relative; overflow: hidden !important; background: #4F1F26;}
+.header, .header_2 {position: relative; overflow: hidden !important; background: #501214;}
 .title {min-height: 80px; width: 100%; bottom: 0; margin: auto;}
 .dept_name {left: 0; bottom: 0; right: 0;}
-h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: #4F1F26; background: rgba(79, 31, 38, 0.8);}
+h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: #501214; background: rgba(79, 31, 38, 0.8);}
 
 /* Top Navigation */
 

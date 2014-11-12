@@ -143,7 +143,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 .header, .header_2 {position: relative; overflow: hidden !important; background: #501214;}
 .title {min-height: 80px; width: 100%; bottom: 0; margin: auto;}
 .dept_name {left: 0; bottom: 0; right: 0;}
-h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: #501214; background: rgba(79, 31, 38, 0.8);}
+h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: #501214; background: rgba(80, 18, 20, 0.8);}
 
 /* Top Navigation */
 

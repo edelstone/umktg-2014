@@ -107,7 +107,7 @@ html {font-size: 120%;}
 .clearfix:after {clear: both;}
 .clearfix {*zoom: 1;}
 body {font-family: 'Univers W01'; font-weight: 100; text-rendering: optimizeLegibility;}
-a, a:link, a:visited {color: #501214; text-decoration: none;}
+a, a:link, a:visited {color: #00A08E; text-decoration: none;}
 a:hover, a:active {color: #222222; text-decoration: none;}
 a, li, .std_transition {transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out;}
 .fast_transition, a:after, a:before {transition: all 0.1s ease-in-out; -webkit-transition: all 0.1s ease-in-out; -moz-transition: all 0.1s ease-in-out; -o-transition: all 0.1s ease-in-out;}
@@ -138,7 +138,7 @@ img, img:hover {-moz-backface-visibility: hidden; -webkit-backface-visibility: h
 .messaging_title {opacity: 0; margin: 0; position: relative; top: .5rem; letter-spacing: 10px;}
 .messaging_btn {font-size: 2rem; opacity: 0;}
 .messaging_btn a {color: #FFFFFF; letter-spacing: 5px; border: 2px solid #FFFFFF; padding: 13px 10px 10px 20px;}
-.messaging_btn a:hover {background: #C59217;}
+.messaging_btn a:hover {background: #00A08E;}
 .play {font-size: 65%; margin-left: 7px; vertical-align: top;} 
 .header, .header_2 {position: relative; overflow: hidden !important; background: #501214;}
 .title {min-height: 80px; width: 100%; bottom: 0; margin: auto;}
@@ -148,39 +148,39 @@ h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: 
 /* Top Navigation */
 
 .main_nav, .condensed_nav {max-width: 1000px; background: #E8E3DB;}
-.main_nav a, .condensed_nav a {color: #363534; display: inline-block;}
-.main_nav a:hover, .condensed_nav a:hover {color: #8D734A; -moz-box-shadow: inset 0 -6px 0 0 #8D734A; -webkit-box-shadow: inset 0 -6px 0 0 #8D734A; box-shadow: inset 0 -6px 0 0 #8D734A;}
-.main_nav .fa-caret-down {color: #363534; position: relative; left: 3px; font-size: 80%;}
-.main_nav a:hover .fa-caret-down {color: #8D734A;}
+.main_nav a, .condensed_nav a {color: #333333; display: inline-block;}
+.main_nav a:hover, .condensed_nav a:hover {color: #8C734A; -moz-box-shadow: inset 0 -6px 0 0 #8C734A; -webkit-box-shadow: inset 0 -6px 0 0 #8C734A; box-shadow: inset 0 -6px 0 0 #8C734A;}
+.main_nav .fa-caret-down {color: #444444; position: relative; left: 3px; font-size: 80%;}
+.main_nav a:hover .fa-caret-down {color: #8C734A;}
 
 /* Side Navigation */
 
 .side_nav_list {list-style-type: none; padding-left: 0; margin: 0;}
-.side_nav_header {color: #FFFFFF; background-color: #8D734A; margin-top: 0; font-weight: 100; line-height: 1.5rem;}
+.side_nav_header {color: #FFFFFF; background-color: #8C734A; margin-top: 0; font-weight: 100; line-height: 1.5rem;}
 .side_nav_list a {display: block;}
-.side_nav_list a {color: #363534; background-color: #F0F0F0; border-bottom: 1px solid #E0E0E0;}
-.side_nav_list a:hover {color: #8D734A;}
-.side_nav_list a:before, .selected_side:before {font-family: FontAwesome; content: "\f105"; color: #8D734A; opacity: 0; margin-left: -0.7rem; margin-top: .05rem; float: left;}
+.side_nav_list a {color: #222222; background-color: #F0F0F0; border-bottom: 1px solid #E0E0E0;}
+.side_nav_list a:hover {color: #8C734A;}
+.side_nav_list a:before, .selected_side:before {font-family: FontAwesome; content: "\f105"; color: #8C734A; opacity: 0; margin-left: -0.7rem; margin-top: .05rem; float: left;}
 .side_nav_list a:hover:before, .selected_side:before {opacity: 1 !important;}
-.selected_side {color: #8D734A !important;}
+.selected_side {color: #8C734A !important;}
 
 /* Body */
 
 .page_content {max-width: 1000px; margin: auto; padding: 1rem 0 1.5rem 0; overflow: hidden; min-height: 32rem;}
 .main_text {padding-bottom: .5rem;}
 .main_text a {padding: 1px 3px; margin: -1px -3px; text-decoration: underline;}
-.main_text a:hover {/* background: #B2E2DD; background: rgba(0, 160, 142, 0.3); */ text-decoration: none;}
+.main_text a:hover {background: #B2E2DD; background: rgba(0, 160, 142, 0.3);}
 .top_services {margin: 0; font-weight: 200; font-size: 2rem; letter-spacing: 0.13rem; text-transform: uppercase; line-height: 2rem;}
 .top_services div {margin: 1.2rem 0;}
-.top_services a {color: #FFFFFF; padding: 2.5rem 1rem 2.2rem 1rem; background: #C59217; display: block; text-align: center;}
-.top_services a:hover {background: #D1A845; background: rgba(197, 146, 23, 0.8);}
+.top_services a {color: #FFFFFF; padding: 2.5rem 1rem 2.2rem 1rem; background: #00A08E; display: block; text-align: center;}
+.top_services a:hover {background: #33B3A5; background: rgba(0, 160, 142, 0.8);}
 .service_1 {background: url('../images/pencils.jpg') no-repeat; background-size: cover;}
 .service_2 {background: url('../images/camera.jpg') no-repeat; background-size: cover;}
 .service_3 {background: url('../images/bobcat.jpg') no-repeat; background-size: cover; background-position: 100% 60%;}
 
 /* Footer */
 
-.footer {background: #363534; width: 100%; color: #CCCCCC;}
+.footer {background: #403F3F; width: 100%; color: #CCCCCC;}
 .footer_row {max-width: 1000px; margin: auto;}
 .footer a {color: #CCCCCC;}
 .footer a:hover {color: #FFFFFF;}
@@ -190,7 +190,7 @@ h1 {max-width: 1000px; margin: auto; color: #FFF; min-height: 60px; background: 
 .dept_footer_content a {color: #00A08E;}
 .office_name {font-size: 1.3rem; margin-bottom: 0;}
 .office_details {font-size: .7rem; margin: .5rem auto 1.5rem auto; line-height: 1rem; list-style: none; padding: 0; max-width: 475px;}
-.global_footer {border-top: 1px solid #525252; padding-bottom: 2rem; margin: auto; position: relative; z-index: 1; background: #2E2A26; background: rgba(13, 8, 2, 0.5);}
+.global_footer {border-top: 1px solid #525252; padding-bottom: 2rem; margin: auto; position: relative; z-index: 1; background: #2E2A26; background: rgba(20, 13, 3, 0.4);}
 .global_footer:after {background: url('../images/panorama.jpg'); background-repeat: no-repeat; background-size: cover; opacity: 0.15; top: 0; bottom: 0; left: 0; right: 0; position: absolute; z-index: -1; content: ""; background-position: 80% 0;}
 .global_footer_main {max-width: 1440px;}
 .footer_logo {text-align: center;}

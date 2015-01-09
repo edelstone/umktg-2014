@@ -173,7 +173,7 @@ h1 {max-width: 1000px; margin: auto; color: #FFFFFF; min-height: 60px; backgroun
 .top_services {margin: 0; font-weight: 200; font-size: 2rem; letter-spacing: 0.13rem; text-transform: uppercase; line-height: 2rem;}
 .top_services div {margin: 1.2rem 0;}
 .top_services a {color: #FFFFFF; padding: 2.5rem 1rem 2.2rem 1rem; background: #8D734A; display: block; text-align: center;}
-.top_services a:hover {background: #A48F6E; background: rgba(141, 115, 74, 0.85);}
+.top_services a:hover {background: #98815C; background: rgba(141, 115, 74, 0.85);}
 .service_1 {background: url('../images/pencils.jpg') no-repeat; background-size: cover;}
 .service_2 {background: url('../images/camera.jpg') no-repeat; background-size: cover;}
 .service_3 {background: url('../images/bobcat.jpg') no-repeat; background-size: cover; background-position: 100% 60%;}
@@ -186,8 +186,8 @@ h1 {max-width: 1000px; margin: auto; color: #FFFFFF; min-height: 60px; backgroun
 .footer a:hover {color: #FFFFFF;}
 .dept_footer {border-bottom: 1px solid #0F0F0F; color: #DDDDDD;}
 .dept_footer_content {text-align: center; padding: .8rem; letter-spacing: 1px;}
-.dept_footer_content a {text-decoration: none; color: #DDDDDD;}
-.dept_footer_content a:hover {color: #FFFFFF;}
+.dept_footer_content a {text-decoration: underline; color: #DDDDDD;}
+.dept_footer_content a:hover {text-decoration: none; color: #DDDDDD;}
 .office_name {font-size: 1.3rem; margin-bottom: 0;}
 .office_details {font-size: .7rem; margin: .5rem auto 1.5rem auto; line-height: 1rem; list-style: none; padding: 0; max-width: 480px;}
 .global_footer {border-top: 1px solid #4A4A4A; padding-bottom: 2rem; margin: auto; position: relative; z-index: 1; background: #2E2A26; background: rgba(13, 8, 2, 0.5);}

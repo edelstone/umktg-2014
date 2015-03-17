@@ -172,11 +172,11 @@ h1 {max-width: 1000px; margin: auto; color: #FFFFFF; min-height: 60px; backgroun
 .main_text a:hover {background: #E8E3DB;}
 .top_services {margin: 0; font-weight: 200; font-size: 2rem; letter-spacing: 0.13rem; text-transform: uppercase; line-height: 2rem;}
 .top_services div {margin: 1.2rem 0;}
-.top_services a {color: #FFFFFF; padding: 2.5rem 1rem 2.2rem 1rem; background: #8D734A; display: block; text-align: center;}
+.top_services a {color: #FFFFFF; padding: 2.5rem 1rem 2.1rem 1rem; background: #8D734A; display: block; text-align: center; border-radius: 4px; border-bottom: 3px solid #715C3B;}
 .top_services a:hover {background: #98815C; background: rgba(141, 115, 74, 0.85);}
-.service_1 {background: url('../images/pencils.jpg') no-repeat; background-size: cover;}
-.service_2 {background: url('../images/camera.jpg') no-repeat; background-size: cover;}
-.service_3 {background: url('../images/bobcat.jpg') no-repeat; background-size: cover; background-position: 100% 60%;}
+.service_1 {background: url('../images/pencils.jpg') no-repeat; background-size: cover; border-radius: 4px;}
+.service_2 {background: url('../images/camera.jpg') no-repeat; background-size: cover; border-radius: 4px;}
+.service_3 {background: url('../images/bobcat.jpg') no-repeat; background-size: cover; background-position: 100% 60%; border-radius: 4px;}
 
 /* Footer */
 
